@@ -1,0 +1,17 @@
+{
+  "name": "!Exemptiddon state test!!",
+  "version": "1.0.0",
+  "description": "fors node proj!scxk!cddewct!!d!dd!!!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+    "dependencies": {
+     "qs": "6.10.2",
+     "node-forge":"1.3.3"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
